@@ -1,0 +1,2 @@
+# cssaboutme
+strict css
